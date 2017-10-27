@@ -1,0 +1,6 @@
+__pycache__/
+audit/
+*.pyc
+foo.txt
+foo.txt.bar.txt
+log/
